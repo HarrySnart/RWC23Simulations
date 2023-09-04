@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<metadataSupplement>
+    <tables>
+        <table dataLocale="en_GB" dataSources="ds7" resourceIdentifier="'cas-shared-default','Public','RWC_PATH_VIZ2','en_GB'" tableModifiedTimeStamp="2023-09-01T14:53:47.475Z">
+            <columns>
+                <column dataType="string" label="Event_Stage" xref="Event_Stage"/>
+                <column dataType="double" format="BEST12." label="Iteration" xref="Iteration"/>
+                <column dataType="string" label="Team" xref="Team"/>
+                <column dataType="double" format="BEST12." label="Event_Seq" xref="Event_Seq"/>
+                <column dataType="string" label="Team_Event" xref="Team_Event"/>
+                <column dataType="double" format="BEST12." label="TeamID" xref="TeamID"/>
+            </columns>
+        </table>
+        <table dataLocale="en_GB" dataSources="ds316" resourceIdentifier="'cas-shared-default','Public','RWC23_SIM_DETAIL','en_GB'" tableModifiedTimeStamp="2023-09-01T13:03:20.631Z">
+            <columns>
+                <column dataType="string" label="Stage" xref="Stage"/>
+                <column dataType="string" label="Side1" xref="Side1"/>
+                <column dataType="string" label="Side2" xref="Side2"/>
+                <column dataType="double" format="BEST12." label="Side1_Win_Prob" xref="Side1_Win_Prob"/>
+                <column dataType="double" format="BEST12." label="Side2_Win_Prob" xref="Side2_Win_Prob"/>
+                <column dataType="double" format="BEST12." label="Side1_Win" xref="Side1_Win"/>
+                <column dataType="double" format="BEST12." label="Side2_Win" xref="Side2_Win"/>
+                <column dataType="double" format="BEST12." label="Iteration" xref="Iteration"/>
+                <column dataType="string" label="Section" xref="Section"/>
+                <column dataType="string" label="Event_Stage" xref="Event_Stage"/>
+                <column dataType="string" label="Winner" xref="Winner"/>
+                <column dataType="string" label="RWC_Winner" xref="RWC_Winner"/>
+                <column dataType="string" label="RWC_Second" xref="RWC_Second"/>
+                <column dataType="string" label="RWC_Third" xref="RWC_Third"/>
+                <column dataType="string" label="PoolA_Winner" xref="PoolA_Winner"/>
+                <column dataType="string" label="PoolA_Second" xref="PoolA_Second"/>
+                <column dataType="string" label="PoolB_Winner" xref="PoolB_Winner"/>
+                <column dataType="string" label="PoolB_Second" xref="PoolB_Second"/>
+                <column dataType="string" label="PoolC_Winner" xref="PoolC_Winner"/>
+                <column dataType="string" label="PoolC_Second" xref="PoolC_Second"/>
+                <column dataType="string" label="PoolD_Winner" xref="PoolD_Winner"/>
+                <column dataType="string" label="PoolD_Second" xref="PoolD_Second"/>
+                <column dataType="string" label="qf1_winner" xref="qf1_winner"/>
+                <column dataType="string" label="qf2_winner" xref="qf2_winner"/>
+                <column dataType="string" label="qf3_winner" xref="qf3_winner"/>
+                <column dataType="string" label="qf4_winner" xref="qf4_winner"/>
+                <column dataType="string" label="sf1_winner" xref="sf1_winner"/>
+                <column dataType="string" label="sf2_winner" xref="sf2_winner"/>
+                <column dataType="double" format="BEST12." label="Sequence" xref="Sequence"/>
+            </columns>
+        </table>
+        <table dataLocale="en_GB" dataSources="ds453" resourceIdentifier="'cas-shared-default','CASUSER','WIN_DISTRIBUTIONS','en_GB'" tableModifiedTimeStamp="2023-09-04T09:05:59.118Z">
+            <columns>
+                <column dataType="double" format="BEST12." label="Argentina" xref="Argentina"/>
+                <column dataType="double" format="BEST12." label="Australia" xref="Australia"/>
+                <column dataType="double" format="BEST12." label="Brazil" xref="Brazil"/>
+                <column dataType="double" format="BEST12." label="Canada" xref="Canada"/>
+                <column dataType="double" format="BEST12." label="England" xref="England"/>
+                <column dataType="double" format="BEST12." label="Fiji" xref="Fiji"/>
+                <column dataType="double" format="BEST12." label="France" xref="France"/>
+                <column dataType="double" format="BEST12." label="Georgia" xref="Georgia"/>
+                <column dataType="double" format="BEST12." label="Hong Kong" xref="Hong Kong"/>
+                <column dataType="double" format="BEST12." label="Ireland" xref="Ireland"/>
+                <column dataType="double" format="BEST12." label="Italy" xref="Italy"/>
+                <column dataType="double" format="BEST12." label="Japan" xref="Japan"/>
+                <column dataType="double" format="BEST12." label="Namibia" xref="Namibia"/>
+                <column dataType="double" format="BEST12." label="New Zealand" xref="New Zealand"/>
+                <column dataType="double" format="BEST12." label="Portugal" xref="Portugal"/>
+                <column dataType="double" format="BEST12." label="Romania" xref="Romania"/>
+                <column dataType="double" format="BEST12." label="Russia" xref="Russia"/>
+                <column dataType="double" format="BEST12." label="Samoa" xref="Samoa"/>
+                <column dataType="double" format="BEST12." label="Scotland" xref="Scotland"/>
+                <column dataType="double" format="BEST12." label="South Africa" xref="South Africa"/>
+                <column dataType="double" format="BEST12." label="Spain" xref="Spain"/>
+                <column dataType="double" format="BEST12." label="Tonga" xref="Tonga"/>
+                <column dataType="double" format="BEST12." label="USA" xref="USA"/>
+                <column dataType="double" format="BEST12." label="Uruguay" xref="Uruguay"/>
+                <column dataType="double" format="BEST12." label="Wales" xref="Wales"/>
+                <column dataType="double" format="BEST12." label="Chile" xref="Chile"/>
+            </columns>
+        </table>
+    </tables>
+    <version>2</version>
+</metadataSupplement>
