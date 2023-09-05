@@ -1,5 +1,7 @@
 # Simulating the Rugby World Cup 2023 Tournament using Probabalistic Sampling
 
+View Interactive dashboard here: [bit.ly/sim-rwc23](bit.ly/sim-rwc23)
+
 This project uses a combination of PYMC (for probabalistic modelling), Python (for discrete event simulation) and SAS Viya (for pre-processing, post-processing and data visaulization) in order to simulate probable fixture outcomes for the France 2023 Rugby World Cup. 
 
 The workflow for the modelling and simulations can be summarised as:
